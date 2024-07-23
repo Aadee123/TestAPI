@@ -14,4 +14,4 @@ app.add_middleware(
 
 @app.get("/api")
 async def test():
-    return "suck my ----"
+    return "hello chheda family"
